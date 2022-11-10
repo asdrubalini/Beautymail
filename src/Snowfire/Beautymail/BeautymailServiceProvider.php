@@ -3,6 +3,7 @@
 namespace Snowfire\Beautymail;
 
 use Illuminate\Support\ServiceProvider;
+use Illuminate\Mail\Mailer;
 
 class BeautymailServiceProvider extends ServiceProvider
 {
